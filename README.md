@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MARK-PULI From Puli, Taiwan
-- 👀 I’m interested in cycling, workout.
+- 👀 I’m interested in cycling, walkout.
 - 🌱 I’m specialize in FOXPRO, Access, ASP, ASP.NET, SQL, NodeRED, IIOT, system integration(IT/OT,) and SA.
 
 <!---
